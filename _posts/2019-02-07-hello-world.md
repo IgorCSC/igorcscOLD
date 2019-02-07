@@ -11,4 +11,4 @@ Making some experiments with [Jekyll](http://jekyllrb.com).
 * With
 * Bullets
 
-Some words are **black**, others are in __itallic__. 
+Some words are **black**, others are in _itallic_. 
