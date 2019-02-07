@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Hello, world!
+title: "Hank Quinlan, Horrible Cop, Launches Site"
 date: 2019-02-07
-
 ---
 
 Making some experiments with [Jekyll](http://jekyllrb.com). 
